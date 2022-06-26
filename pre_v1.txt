@@ -1,0 +1,15 @@
+Participante	Idade	Gênero	Curso	freq_game	uso_oculos	encefelalo_conhecimento	Nota
+1	22	Feminino	Psicologia	Nunca jogo	Entre 2 e 5	3	10
+2	40	Feminino	Publicidade	Nunca jogo	1	0	2
+3	22	Feminino	Direito	Jogo uma vez por semana	Entre 6 e 10	1	2
+4	27	Feminino	Psicologia	Nunca jogo	Entre 2 e 5	5	6
+5	17	Feminino	Fisioterapia	Jogo uma vez por mês	Nenhuma	0	2
+6	31	Feminino	Fisioterapia	Nunca jogo	Entre 6 e 10	5	2
+7	24	Feminino	Psicologia	Jogo uma vez por mês	Nenhuma	2	0
+8	24	Feminino	Fisioterapia	Nunca jogo	Nenhuma	4	0
+9	27	Masculino	Biologia	Jogo uma vez por mês	1	3	4
+10	24	Feminino	Fisioterapia	Nunca jogo	1	5	0
+11	33	Masculino	História	Jogo uma vez por semana	1	0	0
+12	40	Feminino	Direito	Nunca jogo	1	0	0
+13	26	Feminino	Psicologia	Jogo uma vez por mês	Nenhuma	4	4
+14	25	Masculino	Psicologia	Jogo uma vez por mês	Nenhuma	5	2
