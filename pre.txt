@@ -13,7 +13,7 @@ Participante	Idade	Gênero	Curso	freq_game	uso_oculos	encefelalo_conhecimento	No
 12	40	Feminino	Direito	Nunca jogo	1	0	0
 13	26	Feminino	Psicologia	Jogo uma vez por mês	Nenhuma	4	4
 14	25	Masculino	Psicologia	Jogo uma vez por mês	Nenhuma	5	2
-15	23	Feminino	Psicologia	Nunca jogo	Nenhuma	3,5	4
+15	23	Feminino	Psicologia	Nunca jogo	Nenhuma	3	4
 16	24	Feminino	Psicologia	Nunca jogo	Nenhuma	5	4
 17	42	Masculino	Mestrado em computação aplicada	Jogo uma vez por semana	Mais de cinco	2	0
 18	39	Masculino	PPGCA	Jogo uma vez por dia	Quatro ou cinco	1	2
