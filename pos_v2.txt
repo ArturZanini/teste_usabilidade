@@ -1,0 +1,19 @@
+Carimbo de data/hora	Endereço de e-mail	Participante	Qual o grau de similaridade entre a montagem do encéfalo sintético e do encéfalo virtual? Use 1 para pouco similar e 7 para muito similar.	Qual modelo de encéfalo você prefere para apoio na aprendizagem de neuroanatomia ? 	Quantifique as relações das peças sintéticas com as aulas de neuroanatomia. Use 1 para pouca relação e 7 muita relação.	Quantifique as relações das peças virtuais com as aulas de neuroanatomia. Use 1 para pouca relação e 7 muita relação.	Registre aqui sugestões, críticas, elogios e melhorias que possam ser feitas.
+		1	7	Virtual		7	Nenhuma. Achei muito bom
+		2	7	Sintético		5	No virtual ao pegar as peças poderia se mais firme o manuseio
+		3	5	Virtual		4	Ter a opção de cor natural do VR. Eu como leiga e não da área da saúde acho que o jogo ajuda na memorização dos lugares e nomes das partes do cérebro
+		4	7	Virtual		7	
+		5	7	Virtual		7	Não tenho críticas, mas sim muitos elogios ao jogo . Ele é muito divertido
+		6	7	Virtual		7	Nome da peça as vezes ficou na frente de outras e atrapalhou
+		7	6	Virtual		6	
+		8	7	Virtual		7	Ser aplicado nas aulas
+		9	6	Virtual		6	
+		10	5	Virtual		7	Implemntar outras partes anatomicas do corpo humano. Gostei muito de ter participado ... pareceu real
+		11	6	Virtual		4	ótima experiência. ambiente gara sentido de realidade
+		12	5	Sintético		2	
+		13	6	Virtual		6	
+		14	7	Virtual		5	
+		15	5	Sintético		6	
+		16	7	Virtual		7	
+15/06/2022 20:30:51	artur.zanini@gmail.com	17	5	Virtual	4	6	Virtual não identifica as partes com facilidade enquanto o sintético conseguir fazer isso melhor
+15/06/2022 21:08:48	silveiratrindade@hotmail.com	18	7	Virtual	6	7	muito bom ambiente virtual de aprendizagem!
