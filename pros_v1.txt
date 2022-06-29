@@ -8,29 +8,29 @@ Carimbo de data/hora	Participante	Condição	Ordem	1. O jogo foi fácil de usar.
 	4	Virtual	1	concordo	concordo plenamente	discordo	6	7	7	6	7				concordo plenamente	10					05:45:00 AM
 	4	Sintético	2	concordo	concordo	discordo plenamente	7	7	7	7	7				concordo plenamente	10					03:21:00 AM
 	5	Sintético	1	discordo plenamente	concordo	não sei opinar	7	7	7	7	7	Divertido , porém muito difícil			concordo	2					04:30:00 AM
-	5	virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	7	1				concordo	2					03:42:00 AM
-	6	virtual	1	concordo	concordo plenamente	discordo plenamente	7	6	7	6	7				concordo plenamente	4					03:03:00 AM
+	5	Virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	7	1				concordo	2					03:42:00 AM
+	6	Virtual	1	concordo	concordo plenamente	discordo plenamente	7	6	7	6	7				concordo plenamente	4					03:03:00 AM
 	6	Sintético	2	concordo	concordo plenamente	discordo plenamente	7	7	7	7	7	Foi ótimo participar			concordo plenamente	4					03:31:00 AM
 	7	Sintético	1	concordo	concordo plenamente	discordo plenamente	7	7	7	7	7				não sei opinar	0					05:45:00 AM
-	7	virtual	2	concordo	concordo plenamente	discordo plenamente	7	7	7	7	4				concordo	0					03:02:00 PM
-	8	virtual	1	discordo	concordo plenamente	concordo plenamente	7	6	6	6	6	indico para a aprendizagem			concordo plenamente	10					01:07:00 PM
+	7	Virtual	2	concordo	concordo plenamente	discordo plenamente	7	7	7	7	4				concordo	0					03:02:00 PM
+	8	Virtual	1	discordo	concordo plenamente	concordo plenamente	7	6	6	6	6	indico para a aprendizagem			concordo plenamente	10					01:07:00 PM
 	8	Sintético	2	concordo	concordo plenamente	discordo plenamente	7	7	7	7	7				concordo plenamente	8					03:53:00 AM
 	9	Sintético	1	concordo	concordo plenamente	discordo	7	7	7	7	7				concordo plenamente	4					07:35:00 AM
-	9	virtual	2	discordo	concordo	concordo	7	7	7	7	1				concordo plenamente	2					11:09:00 PM
-	10	virtual	1	discordo	concordo	discordo	7	6	6	7	6				concordo	0					27:35:00
+	9	Virtual	2	discordo	concordo	concordo	7	7	7	7	1				concordo plenamente	2					11:09:00 PM
+	10	Virtual	1	discordo	concordo	discordo	7	6	6	7	6				concordo	0					27:35:00
 	10	Sintético	2	discordo	concordo	discordo	7	7	7	7	7				concordo	2					09:47:00 AM
-	11	sintético	1	discordo	concordo	concordo	7	7	7	7	7				Não sei opinar	0					04:38:00 AM
-	11	virtual	2	discordo	concordo	discordo	7	7	7	7	6				concordo	0					11:40:00 AM
-	12	virtual	1	discordo	concordo	discordo	5	3	5	3	2				concordo	0					03:56:00 PM
-	12	sintético	2	concordo	concordo	discordo	7	7	7	7	7				concordo	2					04:15:00 AM
-	13	sintético	1	discordo	concordo	discordo plenamente	7	7	7	7	7				concordo plenamente	6					05:21:00 AM
-	13	virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	6	6				concordo plenamente	6					04:25:00 AM
-	14	virtual	1	concordo	concordo plenamente	discordo plenamente	7	6	7	7	7				concordo plenamente	4					03:21:00 AM
-	14	sintético	2	discordo	concordo	discordo	7	7	7	7	7				concordo plenamente	4					11:09:00 AM
-	15	sintético	1	concordo	concordo	discordo	7	7	7	7	7				concordo plenamente	6					04:16:00 AM
-	15	virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	7	6				concordo plenamente	6					07:36:00 AM
-	16	virtual	1	discordo	concordo	discordo	7	6	7	6	5				concordo plenamente	5					10:49:00 AM
-	16	sintético	2	discordo	concordo	discordo plenamente	7	7	7	7	7				concordo	6					06:30:00 AM
+	11	Sintético	1	discordo	concordo	concordo	7	7	7	7	7				Não sei opinar	0					04:38:00 AM
+	11	Virtual	2	discordo	concordo	discordo	7	7	7	7	6				concordo	0					11:40:00 AM
+	12	Virtual	1	discordo	concordo	discordo	5	3	5	3	2				concordo	0					03:56:00 PM
+	12	Sintético	2	concordo	concordo	discordo	7	7	7	7	7				concordo	2					04:15:00 AM
+	13	Sintético	1	discordo	concordo	discordo plenamente	7	7	7	7	7				concordo plenamente	6					05:21:00 AM
+	13	Virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	6	6				concordo plenamente	6					04:25:00 AM
+	14	Virtual	1	concordo	concordo plenamente	discordo plenamente	7	6	7	7	7				concordo plenamente	4					03:21:00 AM
+	14	Sintético	2	discordo	concordo	discordo	7	7	7	7	7				concordo plenamente	4					11:09:00 AM
+	15	Sintético	1	concordo	concordo	discordo	7	7	7	7	7				concordo plenamente	6					04:16:00 AM
+	15	Virtual	2	discordo	concordo plenamente	discordo plenamente	7	7	7	7	6				concordo plenamente	6					07:36:00 AM
+	16	Virtual	1	discordo	concordo	discordo	7	6	7	6	5				concordo plenamente	5					10:49:00 AM
+	16	Sintético	2	discordo	concordo	discordo plenamente	7	7	7	7	7				concordo	6					06:30:00 AM
 15/06/2022 20:07:21	17	Sintético	1	concordo	concordo	discordo plenamente	7	7	7	7	7	Educacional , pouca interação		tranquilo	concordo plenamente	2	Quais as partes de um cérebro		lóbulo frontal, lóbulo parental 	1 frontal - 5 lateral	00:50:00
 15/06/2022 20:28:14	17	Virtual	2	concordo plenamente	concordo plenamente	discordo plenamente	6	6	5	7	5	interação, divertido. dificuldade nas conexões		Brincado de montar um quebra-cabeça	concordo	4	Partes do cérebro humano		frontal, parental, encéfalo,  lateral	1 - frontal, 5- lateral , 4 - encefalo , 2 - parental	01:22:00
 15/06/2022 20:49:54	18	Sintético	1	concordo	concordo	discordo plenamente	7	7	7	7	7	Estimulo de memória, coordenação motora, aprendizagem por gameficação. desgaste das peças		confortável, pensativo e desafiado	concordo	4	algumas regiões cerebrais		cerebelo, lóbulo frontal, temporal...	1-lóbulo frontal, 4-cerebelo...	01:11:00
